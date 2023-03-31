@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures Fall: S&P 500 Breaks Support As SVB Financial Slams Banks; Jobs Report Due | Investor's Business Daily - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-breaks-support-as-svb-financial-slams-bank-stocks-jobs-report-due/",
+            "urlToImage": null,
+            "publishedAt": "2023-03-10T05:56:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kara Scannell, Kristen Holmes, Jack Forrest",
+            "title": "New York Times: NY prosecutors signal they're nearing end of Trump hush money investigation - CNN",
+            "description": "Prosecutors in the Manhattan district attorney's office recently offered former President Donald Trump the chance to testify next week before a grand jury that's been investigating a hush money payment scheme -- signaling they are nearing the end of their inv…",
+            "url": "https://www.cnn.com/2023/03/09/politics/donald-trump-manhattan-da-charges/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230310083154-donald-trump-0304.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-10T04:57:00Z",
+            "content": "Prosecutors in the Manhattan district attorneys office recently offered former President Donald Trump the chance to testify next week before a grand jury thats been investigating a hush money payment… [+3149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Xi Jinping begins historic third term as China's president - BBC",
+            "description": "It caps a consolidation of power that has made Xi Jinping China's most dominant leader in generations.",
+            "url": "https://www.bbc.com/news/world-asia-china-64911512",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1407C/production/_128944028_gettyimages-1247748058.jpg",
+            "publishedAt": "2023-03-10T04:25:16Z",
+            "content": "China's leader Xi Jinping has secured a historic third term as president from the country's rubber-stamp parliament.\r\nIt follows a consolidation of power that has made Mr Xi, 69, China's most dominan… [+1108 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "K.D. Drummond",
+            "title": "3-Round Mock Draft: 5 QBs go in 1st, Cowboys bail to Day 2 - Cowboys Wire",
+            "description": "A 102-pick mock sees the the QB projections shaken up after the combine and some interesting strategies to take care of problem areas. | From @KDDrummondNFL",
+            "url": "https://cowboyswire.usatoday.com/lists/nfl-cowboys-2023-mock-draft-3-rounds/",
+            "urlToImage": "https://cowboyswire.usatoday.com/wp-content/uploads/sites/73/2023/03/USATSI_18199448.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2023-03-10T04:09:00Z",
+            "content": "With the scouting combine in the rearview mirror and free agency closing in, it’s time for one final mock draft for this phase of the offseason. Things will change once again as teams begin to fill o… [+7362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Jamie Dettmer",
+            "title": "Zelenskyy has no choice but to ask his fighters to hold Bakhmut — for now - POLITICO Europe",
+            "description": "US generals say the Ukrainian president is right not to disengage from the meat-grinder of a battle.",
+            "url": "https://www.politico.eu/article/ukraine-war-volodymyr-zelenskyy-no-choice-hold-bakhmut-for-now/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/03/09/GettyImages-1247718820-scaled.jpg",
+            "publishedAt": "2023-03-10T03:00:00Z",
+            "content": "Jamie Dettmer is opinion editor at POLITICO Europe.\r\nFrench emperor Napoleon Bonaparte was famously averse to retreating. However skillfully effected a retreat may be, it always lessens the morale of… [+7418 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Corinne Heller",
+            "title": "Vanderpump Rules' Raquel Leviss Sends Legal Letters to Cast Over \"Intimate\" Tom Sandoval FaceTime - E! NEWS",
+            "description": "Amid the Tom Sandoval cheating scandal, Raquel Leviss had her lawyer send legal letters to him, Ariana Madix and other Vanderpump Rules co-stars over an \"intimate\" video.",
+            "url": "https://www.eonline.com/news/1367404/vanderpump-rules-raquel-leviss-sends-legal-letters-to-cast-over-intimate-tom-sandoval-facetime",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202329/rs_1200x1200-230309143037-1200-Raquel-Leviss-Tom-Sandoval-Ariana-Madix-3.9.23.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-03-10T02:56:00Z",
+            "content": "TheTom Sandoval cheating scandal just got messier: Raquel Leviss is SUR-ving legal letters.\r\nHer lawyer alleges that her Vanderpump Rules co-star recorded an \"intimate\" FaceTime session with her with… [+1035 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Deadly shooting at Hamburg Jehovah's Witness hall - BBC",
+            "description": "Reports say at least six people have been killed and several have been injured in the attack.",
+            "url": "https://www.bbc.com/news/world-europe-64910415",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D8EE/production/_128943555__128943434_p0f7wjbk.jpg",
+            "publishedAt": "2023-03-10T02:44:52Z",
+            "content": "Media caption, Watch: Armed police storm a building in Hamburg\r\nA number of people have been killed in a shooting at a Jehovah's Witness meeting hall in the north German city of Hamburg.\r\nPolice say … [+2532 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Grace Toohey, Summer Lin",
+            "title": "Deaths climbs to 13 after San Bernardino snowstorms - Los Angeles Times",
+            "description": "Officials have called only one death as \"weather-related\" in more than a dozen died in the wake of back-to-back snowstorms that stranded residents in their homes for weeks.",
+            "url": "https://www.latimes.com/california/story/2023-03-09/deaths-climbs-to-13-after-san-bernardino-snowstorms",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/28e2961/2147483647/strip/true/crop/4068x2136+0+279/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1e%2F53%2F8744ad804b4b8f4acdb3044f71ca%2F1264982-me-big-bear-snow-5-gmf.jpg",
+            "publishedAt": "2023-03-10T02:17:00Z",
+            "content": "More than a dozen people have died in San Bernardino Countys mountain communities in the wake of back-to-back snowstorms that dumped historic amounts of snow more than 100 inches in places stranding … [+5759 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Luke Plunkett",
+            "title": "Discord Introducing 'AI' Stuff Nobody Asked For, Or Needs - Kotaku",
+            "description": "From mods to art, the comms platform is squeezing machine learning into every corner of its service",
+            "url": "https://kotaku.com/discord-ai-machine-learning-support-chat-art-privacy-1850210638",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e83645788f382e5562d845a6c0001ad4.jpg",
+            "publishedAt": "2023-03-10T01:30:00Z",
+            "content": "In a blog post published earlier today, Discorda communications platform, and nothing moreannounced plans to introduce what they call AI (but which should more accurately be called machine learning) … [+2263 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Russia-Ukraine war at a glance: what we know on day 380 of the invasion - The Guardian",
+            "description": "Russian missile strikes on Ukraine leave at least nine dead; UN warns urgent action needed to protect Zaporizhzhia nuclear plant after power lost in attacks",
+            "url": "https://www.theguardian.com/world/2023/mar/10/russia-ukraine-war-at-a-glance-what-we-know-on-day-380-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/b0b9b3c73c7a0106cf57d557b81789c039e9dde4/0_200_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a4e41e69621d1bb20ec30e21d5cade7",
+            "publishedAt": "2023-03-10T01:28:00Z",
+            "content": "<li>Russia unleashed its largest missile bombardmentagainst Ukraine in three weeks in the early hours of Thursday, including six hypersonic missiles able to evade air defences. At least nine civilian… [+3295 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CBS News",
+            "title": "Mexican drug cartel purportedly apologizes for deaths of kidnapped Americans, calls out members for \"lack of discipline\" - CBS News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mva2lkbmFwcGVkLWFtZXJpY2Fucy1ndWxmLWNhcnRlbC1nYW5nLWFwb2xvZ2l6ZXMtZGVhdGhzLWxldHRlci1hc3NvY2lhdGVkLXByZXNzL9IBcGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2tpZG5hcHBlZC1hbWVyaWNhbnMtZ3VsZi1jYXJ0ZWwtZ2FuZy1hcG9sb2dpemVzLWRlYXRocy1sZXR0ZXItYXNzb2NpYXRlZC1wcmVzcy8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-03-10T01:22:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Biden administration releases Guantánamo prisoner to Saudi Arabia after 20 years - NPR",
+            "description": "A Saudi man held at Guantánamo for more than two decades without being put on trial has been released by the U.S., making him the fourth inmate transferred out of Guantánamo in about the past month.",
+            "url": "https://www.npr.org/2023/03/09/1162424158/biden-administration-releases-guantanamo-inmate-its-fourth-transfer-in-a-month",
+            "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+            "publishedAt": "2023-03-10T01:04:00Z",
+            "content": "A Saudi Arabian man held at Guantánamo Bay, Cuba, for more than two decades without being put on trial has been released by the U.S. military, making him the fourth inmate transferred out of Guantána… [+2669 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hammer and Rails"
+            },
+            "author": "GarrettShearman",
+            "title": "Purdue Basketball: Rutgers Preview - Hammer and Rails",
+            "description": "Following a double bye in the conference tourney, Purdue looks to avenge the season’s first loss against Rutgers in the third round of the Big 10 tournament.",
+            "url": "https://www.hammerandrails.com/2023/3/9/23632658/purdue-basketball-rutgers-preview",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/-IVGNy2KeYlg4BX4yeO3-FmhbBw=/0x461:3748x2423/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24491902/1246010739.jpg",
+            "publishedAt": "2023-03-10T00:34:08Z",
+            "content": "Friday, March 10th, 2023, 12:00 EST\r\nUnited Center, Chicago, Illinois\r\nTV: BTN\r\nRoster\r\nRutgers Starting Lineup\r\n<table><tr><th>Position</th><th>#</th><th>Player</th><th>Class</th><th>Height</th><th>… [+6159 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Linda Deutsch",
+            "title": "Robert Blake, actor acquitted in wife's killing, dies at 89 - The Associated Press - en Español",
+            "description": "LOS ANGELES (AP) — Robert Blake, the Emmy award-winning performer who went from acclaim for his acting to notoriety when he was tried and acquitted in the killing of his wife, died Thursday at age 89.",
+            "url": "https://apnews.com/article/robert-blake-dies-ddf7a0c37dae4690ac82bf377e5aec70",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/02fc90edf1164c83bd1e5ecbb8364497/2336.webp",
+            "publishedAt": "2023-03-10T00:24:52Z",
+            "content": "LOS ANGELES (AP) Robert Blake, the Emmy award-winning performer who went from acclaim for his acting to notoriety when he was tried and acquitted in the killing of his wife, died Thursday at age 89.\r… [+5969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Krisztian  Sandor",
+            "title": "Crypto Traders Suffer Over $300M of Losses in Liquidations Amid Market Crash - CoinDesk",
+            "description": "The largest long liquidation in at least a month suggests that Thursday’s crash in crypto prices has caught traders off-guard. Bitcoin traders suffered the most losses, some $112 million in the past 24 hours, while ether liquidations surpassed $73 million, pe…",
+            "url": "https://www.coindesk.com/markets/2023/03/09/crypto-traders-suffer-over-300m-of-losses-in-liquidations-amid-market-crash/",
+            "urlToImage": "https://www.coindesk.com/resizer/Yuqx0PpceVinm25z7bAXF00zOb4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PTVYWUTDE5GAFMA35SWCIDVENY.jpg",
+            "publishedAt": "2023-03-09T23:53:00Z",
+            "content": "Crypto traders endured some $307 million of liquidations in the past 24 hours, data from Coinglass shows, as crypto markets tanked Thursday on news about crypto-friendly bank Silvergate Capital (SI) … [+1811 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "Alex Murdaugh to appeal murder convictions and life sentence - NBC News",
+            "description": "Alex Murdaugh filed a notice Thursday to appeal his convictions in the killings of his wife and one of their sons and the life sentence handed down by a judge.",
+            "url": "https://www.nbcnews.com/news/us-news/alex-murdaugh-appeal-murder-convictions-life-sentence-rcna74280",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230303-alex-murdaugh-sentencing-ew-125p-04e3e4.jpg",
+            "publishedAt": "2023-03-09T23:32:20Z",
+            "content": "Alex Murdaugh filed a notice Thursday to appeal his convictions in the killings of his wife and one of their sons and the life sentence handed down by a judge.\r\nA jury convicted Murdaugh, 54, last we… [+1430 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Jeff Borzello",
+            "title": "Patrick Ewing out as Georgetown men's basketball coach - ESPN",
+            "description": "Patrick Ewing, who was 7-25 this season and had a 75-109 record in six seasons, is out as men's basketball coach at Georgetown.",
+            "url": "https://www.espn.com/mens-college-basketball/story/_/id/35823306/patrick-ewing-georgetown-men-basketball-coach",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0124%2Fr965485_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-03-09T23:24:31Z",
+            "content": "Patrick Ewing will not return as men's basketball coach of the Georgetown Hoyas next season, the school announced Thursday evening.\r\nEwing, one of the greatest college basketball players of all time … [+3012 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Fruit fly's complete brain wiring map offers insights into human brain : Shots - Health News - NPR",
+            "description": "Researchers have mapped the more than 500,000 connections in the intricate brain of a fruit fly larva. This map, they say, could help scientists figure out how learning changes the human brain, too.",
+            "url": "https://www.npr.org/sections/health-shots/2023/03/09/1161645378/scientists-first-wiring-map-fruit-fly-brain-connectome-human-learning",
+            "urlToImage": "https://media.npr.org/assets/img/2023/03/09/gettyimages-641597782_wide-4cde999bdee263b54771da273f19001fae0c2e1c-s1400-c100.jpg",
+            "publishedAt": "2023-03-09T23:08:45Z",
+            "content": "What looks like a pin-headed critter on the right is actually a larval version of the fruit fly on the left. Both have remarkably complex brains, scientists say, with different regions devoted to dec… [+4451 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Norfolk Southern train derails in Alabama, no public threat - ABC News",
+            "description": "A Norfolk Southern train derailed in Alabama on Thursday, but company and local officials said there is no threat to the public",
+            "url": "https://abcnews.go.com/US/wireStory/norfolk-southern-train-derails-alabama-public-threat-97753701",
+            "urlToImage": "https://s.abcnews.com/images/US/wirestory_49e36d8b7f89a8e23ed8cd4e9cf96c55_16x9_992.jpg",
+            "publishedAt": "2023-03-09T22:59:46Z",
+            "content": "PIEDMONT, Ala. -- A Norfolk Southern train derailed in Alabama on Thursday, but company and local officials said there was no threat to the public.\r\nThe Alabama accident came on the same day the comp… [+1405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WGN TV Chicago"
+            },
+            "author": "TOM KRISHER, Associated Press",
+            "title": "GM offers buyouts to most US salaried workers to trim costs - WGN TV Chicago",
+            "description": "DETROIT (AP) — General Motors is offering buyouts to most of its U.S. salaried workforce and some global executives in an effort to trim costs as it makes the transition to electric vehicles. The Detroit automaker wouldn’t say how many workers it is targeting…",
+            "url": "https://wgntv.com/news/gm-offers-buyouts-to-most-us-salaried-workers-to-trim-costs/",
+            "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/03/download-999.jpg?w=1280",
+            "publishedAt": "2023-03-09T22:47:03Z",
+            "content": "DETROIT (AP) General Motors is offering buyouts to most of its U.S. salaried workforce and some global executives in an effort to trim costs as it makes the transition to electric vehicles.\r\nThe Detr… [+3526 chars]"
+        }
+    ]
+}
