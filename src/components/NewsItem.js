@@ -11,6 +11,7 @@ const NewsItem = ({
   return (
     <div className="my-3">
       <div className="card">
+      
         <img
           src={
             imgUrl
