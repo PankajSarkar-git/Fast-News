@@ -1,13 +1,9 @@
-import React, { Component } from 'react'
+const Blank = () => {
+  return (
+    <>
+      <h1>Blank</h1>
+    </>
+  );
+};
 
-export class Blank extends Component {
-  render() {
-    return (
-      <>
-        <h1>Blank</h1>
-      </>
-    )
-  }
-}
-
-export default Blank
+export default Blank;
